@@ -30,7 +30,9 @@ from just looking at their profile
 * [ email ] : if any email is used any where it'll be displayed
 
 * [ posts ] : accessability caption, location, timestamp, caption, picture url, etc
-  * ( yet not working correctly with posts instagram marks as 'sensitive cotent' )  
+  * ( yet not working correctly with posts instagram marks as 'sensitive cotent' ) 
+
+   https://github.com/LOGI-LAB/osi.ig/blob/master/Screenshot%202022-01-26%20183633.png
 
 ---
 
