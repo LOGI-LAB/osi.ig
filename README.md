@@ -32,7 +32,7 @@ from just looking at their profile
 * [ posts ] : accessability caption, location, timestamp, caption, picture url, etc
   * ( yet not working correctly with posts instagram marks as 'sensitive cotent' ) 
 
-   https://github.com/LOGI-LAB/osi.ig/blob/master/Screenshot%202022-01-26%20183633.png
+   [img] (https://github.com/LOGI-LAB/osi.ig/blob/master/Screenshot%202022-01-26%20183633.png)
 
 ---
 
